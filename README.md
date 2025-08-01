@@ -52,7 +52,7 @@ Question 1: "My weight went up 2 kilos in two days—should I call my doctor?"
 Question 2: "How can I tell if my leg swelling is serious?”
 
 **Demo Video**  
-File: /demo/demo\_video.zip
+File: /demo/demo_video.mp4
 
 **Author(s) and date**  
 Dipshikha Bheekhee  
